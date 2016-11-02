@@ -1,0 +1,28 @@
+.jumbotron{
+  background-color: yellow;
+  color: yellow;
+}
+.navbar {
+  background-color: red;
+  color: red;
+  border-color: brown;
+}
+  .navbar a {
+    color: white!important;
+}
+
+.navbar .active a {
+  background-color: purple;
+
+}
+
+body{
+  padding: 50px;
+  padding-bottom: 20px;
+}
+
+form, .social{
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
